@@ -12,7 +12,7 @@ export interface Props {
   logos?: Logo[];
 }
 
-const IMG_PLACEHODLER = Array(30).fill(0).map(() => ({
+const IMG_PLACEHODLER = Array(4).fill(0).map(() => ({
   src:
     "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1527/03fbcc78-ca86-4616-a59a-b8aa18331a9c",
   altText: "Logo",
@@ -29,8 +29,8 @@ export default function Logos({
           <Image
             src={logo.src || ""}
             alt={logo.altText || ""}
-            width={120}
-            height={40}
+            width={230}
+            height={230}
           />
         );
       })}
@@ -40,8 +40,8 @@ export default function Logos({
     <div class="lg:container md:max-w-6xl lg:mx-auto mx-4 py-6 lg:py-14">
       <div class="flex flex-col gap-12">
         <p class="text-center text-lg">{title}</p>
-        <div class="relative w-full overflow-hidden h-11">
-          <div class="absolute top-0 left-0 flex flex-nowrap h-11">
+        <div class="relative w-full overflow-hidden h-20">
+          <div class="absolute top-0 left-0 flex flex-nowrap h-20">
             {slideContent}
           </div>
         </div>
