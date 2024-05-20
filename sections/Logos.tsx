@@ -29,8 +29,8 @@ export default function Logos({
           <Image
             src={logo.src || ""}
             alt={logo.altText || ""}
-            width={110}
-            height={30}
+            width={120}
+            height={40}
           />
         );
       })}
@@ -41,7 +41,7 @@ export default function Logos({
       <div class="flex flex-col gap-12">
         <p class="text-center text-lg">{title}</p>
         <div class="relative w-full overflow-hidden h-11">
-          <div class="animate-sliding absolute top-0 left-0 flex flex-nowrap h-11">
+          <div class="absolute top-0 left-0 flex flex-nowrap h-11">
             {slideContent}
           </div>
         </div>

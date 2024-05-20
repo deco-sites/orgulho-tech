@@ -111,7 +111,7 @@ function SliderItem(
       id={id}
       class="relative overflow-y-hidden w-full min-h-[292px]"
     >
-      <div class="flex flex-col justify-center gap-16 p-8 border border-base-content rounded-2xl h-full max-w-[600px]">
+      <div class="flex flex-col justify-center gap-16 p-8 border border-base-content rounded-2xl h-full max-w-[300px]">
         <p class="text-lg">{content?.description}</p>
         <div class="flex items-center gap-5">
           <Image
@@ -211,7 +211,7 @@ function Carousel(props: Props) {
         {slides?.map((slide, index) => (
           <Slider.Item
             index={index}
-            class="carousel-item max-w-[600px] w-full"
+            class="carousel-item max-w-[300px] w-full"
           >
             <SliderItem
               slide={slide}
