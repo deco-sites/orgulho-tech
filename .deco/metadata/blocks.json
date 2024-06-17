@@ -130,5 +130,53 @@
     "path": "/palestrantes",
     "blockType": "pages",
     "__resolveType": "website/pages/Page.tsx"
+  },
+  "/.deco/blocks/pages-Sobre-414031.json": {
+    "name": "Sobre",
+    "path": "/sobre",
+    "blockType": "pages",
+    "__resolveType": "website/pages/Page.tsx"
+  },
+  "/.deco/blocks/pages-Ingressos-446082.json": {
+    "name": "Ingressos",
+    "path": "/ingressos",
+    "blockType": "pages",
+    "__resolveType": "website/pages/Page.tsx"
+  },
+  "/.deco/blocks/pages-Podcast-121745.json": {
+    "name": "Podcast",
+    "path": "/podcast",
+    "blockType": "pages",
+    "__resolveType": "website/pages/Page.tsx"
+  },
+  "/.deco/blocks/pages-Call%2520For%2520Papers-732597.json": {
+    "name": "Call For Papers",
+    "path": "/call-for-papers",
+    "blockType": "pages",
+    "__resolveType": "website/pages/Page.tsx"
+  },
+  "/.deco/blocks/pages-Patrocine-815319.json": {
+    "name": "Patrocine",
+    "path": "/patrocine",
+    "blockType": "pages",
+    "__resolveType": "website/pages/Page.tsx"
+  },
+  "/.deco/blocks/pages-Pol%25C3%25ADtica%2520de%2520Privacidade-906539.json": {
+    "name": "Política de Privacidade",
+    "path": "/politica-de-privacidade",
+    "blockType": "pages",
+    "__resolveType": "website/pages/Page.tsx"
+  },
+  "/.deco/blocks/pages-C%25C3%25B3digo%2520de%2520Conduta-168197.json": {
+    "name": "Código de Conduta",
+    "path": "/codigo-de-conduta",
+    "blockType": "pages",
+    "__resolveType": "website/pages/Page.tsx"
+  },
+  "/.deco/blocks/pages-Volunt%25C3%25A1rias-350607.json": {
+    "name": "Voluntárias",
+    "path": "/voluntarias",
+    "blockType": "pages",
+    "__resolveType": "website/pages/Page.tsx"
   }
 }

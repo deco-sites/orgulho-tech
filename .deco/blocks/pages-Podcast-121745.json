@@ -1,0 +1,29 @@
+{
+  "name": "Podcast",
+  "path": "/podcast",
+  "sections": [
+    {
+      "__resolveType": "Preview /sections/Header.tsx"
+    },
+    {
+      "__resolveType": "site/sections/Hero.tsx",
+      "title": "<h1><strong>Podcast Orgulho Tech</strong></h1>",
+      "placement": "left",
+      "cta": [
+        {
+          "href": "https://www.youtube.com/playlist?list=PLndJnupfcnxF0w_rsHFklzSBOTdmcgwAf",
+          "text": "Assistir no YouTube",
+          "outline": false
+        }
+      ],
+      "description": "O primeiro podcast brasileiro sobre tecnologia LGBTQIA+. Episódios ao vivo no YouTube com profissionais da área tech e de comunicação."
+    },
+    {
+      "__resolveType": "Footer"
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

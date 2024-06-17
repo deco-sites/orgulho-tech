@@ -1,0 +1,29 @@
+{
+  "name": "Call For Papers",
+  "path": "/call-for-papers",
+  "sections": [
+    {
+      "__resolveType": "Preview /sections/Header.tsx"
+    },
+    {
+      "__resolveType": "site/sections/Hero.tsx",
+      "title": "<h1><strong>Call For Papers</strong></h1>",
+      "placement": "left",
+      "cta": [
+        {
+          "href": "https://www.even3.com.br/orgulho-tech-conf#submissoes",
+          "text": "Submissões encerradas",
+          "outline": true
+        }
+      ],
+      "description": "Seja uma palestrante da Orgulho Tech Conf, e apresente-se no primeiro evento LGBTQIAPN+ para profissionais de tecnologia.  Você precisa necessariamente ser uma pessoa da comunidade LGBTQIAPN+ e ser atuante na área de tecnologia, produtos digitais, design, infraestrutura de TI, gestão de projetos de TI ou área correlatas."
+    },
+    {
+      "__resolveType": "Footer"
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

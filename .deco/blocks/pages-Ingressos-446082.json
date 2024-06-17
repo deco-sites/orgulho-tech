@@ -1,0 +1,29 @@
+{
+  "name": "Ingressos",
+  "path": "/ingressos",
+  "sections": [
+    {
+      "__resolveType": "Preview /sections/Header.tsx"
+    },
+    {
+      "__resolveType": "site/sections/Hero.tsx",
+      "title": "<h1><strong>Ingressos</strong></h1>",
+      "placement": "left",
+      "cta": [
+        {
+          "href": "https://www.even3.com.br/orgulho-tech-conf/",
+          "text": "Vendas Encerradas",
+          "outline": true
+        }
+      ],
+      "description": "Você será direcionada para a plataforma da Even3. Preencha com seus dados, e ao final, receba seu ingresso por email."
+    },
+    {
+      "__resolveType": "Footer"
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

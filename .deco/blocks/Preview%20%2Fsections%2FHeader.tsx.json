@@ -3,23 +3,24 @@
   "navigation": {
     "links": [
       {
-        "label": "Comprar ingresso",
-        "url": "https://www.even3.com.br/orgulho-tech-conf/"
-      },
-      {
         "label": "Instagram",
         "url": "https://instagram.com/orgulhotech"
       },
       {
-        "label": "Assista ao vivo",
+        "label": "Assista",
         "url": "https://link.orgulhotech.com.br/live"
       },
       {
-        "label": "eBook"
+        "label": "Atrações",
+        "url": "/palestrantes"
       },
       {
-        "label": "Palestrantes",
-        "url": "/palestrantes"
+        "label": "Podcast",
+        "url": "https://www.youtube.com/playlist?list=PLndJnupfcnxF0w_rsHFklzSBOTdmcgwAf"
+      },
+      {
+        "label": "Sobre",
+        "url": "/sobre"
       }
     ],
     "buttons": []

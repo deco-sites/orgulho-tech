@@ -1,0 +1,29 @@
+{
+  "name": "Patrocine",
+  "path": "/patrocine",
+  "sections": [
+    {
+      "__resolveType": "Preview /sections/Header.tsx"
+    },
+    {
+      "__resolveType": "site/sections/Hero.tsx",
+      "title": "<h1><strong>Patrocine</strong></h1>",
+      "placement": "left",
+      "cta": [
+        {
+          "href": "https://materiais.danvitoriano.com.br/evento-lgbt",
+          "text": "Solicitar informações do próximo evento",
+          "outline": false
+        }
+      ],
+      "description": "Faça o download do nosso mídia kit para conhecer as opções de patrocínio disponíveis."
+    },
+    {
+      "__resolveType": "Footer"
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

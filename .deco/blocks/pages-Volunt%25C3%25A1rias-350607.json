@@ -1,0 +1,29 @@
+{
+  "name": "Voluntárias",
+  "path": "/voluntarias",
+  "sections": [
+    {
+      "__resolveType": "Preview /sections/Header.tsx"
+    },
+    {
+      "__resolveType": "site/sections/Hero.tsx",
+      "title": "<h1><strong>Voluntárias</strong></h1>",
+      "placement": "left",
+      "cta": [
+        {
+          "href": "https://docs.google.com/forms/d/e/1FAIpQLSduo_sHZNxz0CVt9wYwcK6YWrklsNZeezHWeTgIbjXOgZN0nw/viewform",
+          "text": "Sem vagas no momento",
+          "outline": true
+        }
+      ],
+      "description": "Faça parte do nosso time de voluntárias e ajude a construir um evento incrível! Preencha o formulário e aguarde nosso contato."
+    },
+    {
+      "__resolveType": "Footer"
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}
