@@ -1,1 +1,31 @@
-{"__resolveType":"site/sections/Header.tsx","navigation":{"links":[{"label":"Comprar ingresso","url":"https://www.even3.com.br/orgulho-tech-conf/"},{"label":"Instagram","url":"https://instagram.com/orgulhotech"},{"label":"Assista ao vivo","url":"https://link.orgulhotech.com.br/live"},{"label":"eBook"}],"buttons":[]},"logo":{"src":"https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10313/c1589049-ca9f-44ee-a336-d52606bb7511","alt":"orgulho tech"}}
+{
+  "__resolveType": "site/sections/Header.tsx",
+  "navigation": {
+    "links": [
+      {
+        "label": "Comprar ingresso",
+        "url": "https://www.even3.com.br/orgulho-tech-conf/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://instagram.com/orgulhotech"
+      },
+      {
+        "label": "Assista ao vivo",
+        "url": "https://link.orgulhotech.com.br/live"
+      },
+      {
+        "label": "eBook"
+      },
+      {
+        "label": "Palestrantes",
+        "url": "/palestrantes"
+      }
+    ],
+    "buttons": []
+  },
+  "logo": {
+    "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10313/c1589049-ca9f-44ee-a336-d52606bb7511",
+    "alt": "orgulho tech"
+  }
+}
