@@ -1,6 +1,6 @@
 {
-  "name": "Ingressos",
-  "path": "/ingressos",
+  "name": "teste",
+  "path": "/teste",
   "sections": [
     {
       "__resolveType": "Preview /sections/Header.tsx"
@@ -17,9 +17,6 @@
         }
       ],
       "description": "Você será direcionada para a plataforma da Even3. Preencha com seus dados, e ao final, receba seu ingresso por email."
-    },
-    {
-      "__resolveType": "hero"
     },
     {
       "__resolveType": "Footer"

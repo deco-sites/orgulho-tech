@@ -182,5 +182,11 @@
   "/.deco/blocks/Preview%20site%2Fsections%2FLogos.tsx.json": {
     "blockType": "sections",
     "__resolveType": "site/sections/Logos.tsx"
+  },
+  "/.deco/blocks/pages-teste-765425.json": {
+    "name": "teste",
+    "path": "/teste",
+    "blockType": "pages",
+    "__resolveType": "website/pages/Page.tsx"
   }
 }
