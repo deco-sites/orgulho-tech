@@ -1,0 +1,24 @@
+{
+  "__resolveType": "site/sections/Header.tsx",
+  "navigation": {
+    "links": [
+      {
+        "label": "Atrações",
+        "url": "/palestrantes"
+      },
+      {
+        "label": "Podcast",
+        "url": "/podcast"
+      },
+      {
+        "label": "Sobre",
+        "url": "/sobre"
+      }
+    ],
+    "buttons": []
+  },
+  "logo": {
+    "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10313/c1589049-ca9f-44ee-a336-d52606bb7511",
+    "alt": "orgulho tech"
+  }
+}

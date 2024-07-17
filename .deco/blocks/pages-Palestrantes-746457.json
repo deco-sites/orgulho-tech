@@ -3,7 +3,7 @@
   "path": "/palestrantes",
   "sections": [
     {
-      "__resolveType": "Preview /sections/Header.tsx"
+      "__resolveType": "menu header"
     },
     {
       "__resolveType": "atrações"

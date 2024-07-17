@@ -192,5 +192,9 @@
   "/.deco/blocks/atra%C3%A7%C3%B5es.json": {
     "blockType": "sections",
     "__resolveType": "site/sections/BlogPosts.tsx"
+  },
+  "/.deco/blocks/menu%20header.json": {
+    "blockType": "sections",
+    "__resolveType": "site/sections/Header.tsx"
   }
 }

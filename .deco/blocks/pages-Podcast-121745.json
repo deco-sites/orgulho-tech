@@ -3,7 +3,7 @@
   "path": "/podcast",
   "sections": [
     {
-      "__resolveType": "Preview /sections/Header.tsx"
+      "__resolveType": "menu header"
     },
     {
       "__resolveType": "site/sections/Hero.tsx",
