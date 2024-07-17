@@ -19,7 +19,7 @@ const IMG_PLACEHODLER = Array(4).fill(0).map(() => ({
 }));
 
 export default function Logos({
-  title = "Edit this heading however you want",
+  title = "Edit this heading however you wanto",
   logos = IMG_PLACEHODLER,
 }: Props) {
   const slideContent = (
@@ -42,6 +42,7 @@ export default function Logos({
         <p class="text-center text-lg">{title}</p>
         <div class="relative w-full overflow-hidden h-20">
           <div class="absolute top-0 left-0 flex flex-nowrap h-20">
+          kkkk
             {slideContent}
           </div>
         </div>
