@@ -11,11 +11,11 @@
       "cta": [
         {
           "href": "https://link.orgulhotech.com.br/live",
-          "text": "Assista como foi",
+          "text": "Assistir como foi no YouTube",
           "outline": false
         }
       ],
-      "description": "Realizada em São Paulo no sábado, 1º de junho de 2024, durante a Semana da Parada LGBT, o evento visa celebrar a diversidade nesse setor através de palestras, entrevistas e oportunidades de networking. As inscrições estão abertas e os ingressos custam apenas R$55:",
+      "description": "Realizada em São Paulo no sábado, 1º de junho de 2024, durante a Semana da Parada LGBT, o evento celebrou a diversidade nesse setor através de palestras, entrevistas e oportunidades de networking. #SaveTheDate para a segunda edição em 3 de junho de 2025 em São Paulo.",
       "placement": "left"
     },
     {
@@ -26,13 +26,16 @@
           "altText": "FIAP"
         },
         {
-          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10313/7d52f640-501b-4dbd-9740-01006ac64dd5"
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10313/7d52f640-501b-4dbd-9740-01006ac64dd5",
+          "altText": "Reply"
         },
         {
-          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10313/08b54354-23d7-46ee-b981-36ae256cc1dc"
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10313/08b54354-23d7-46ee-b981-36ae256cc1dc",
+          "altText": "Trampos"
         },
         {
-          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10313/83b460e9-ff5c-47e3-b493-b0ba11e16e22"
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10313/83b460e9-ff5c-47e3-b493-b0ba11e16e22",
+          "altText": "Sensedia"
         }
       ],
       "title": "Oferecimento:"
