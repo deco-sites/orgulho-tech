@@ -45,13 +45,29 @@
         {
           "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10313/ebf0f4ac-5727-4d88-b7e9-883ed8f33006",
           "altText": "Trampos"
+        },
+        {
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10313/f9947f06-8f9d-465d-a536-55ecc28540db",
+          "altText": "fórum lgbti"
+        },
+        {
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10313/044273a1-4086-4d29-9bc6-a8b5a1901bb0",
+          "altText": "ELU"
+        },
+        {
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10313/ab3d123e-1f93-476a-abf8-65c263dd7dcd",
+          "altText": "Sensedia"
+        },
+        {
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10313/b421c53e-4d2a-4626-ab2c-da5e8fdd9336",
+          "altText": "Criativos"
         }
       ]
     },
     {
       "__resolveType": "site/sections/ImageWithParagraph.tsx",
-      "title": "Mais de 20 atrações no palco do Teatro Fecap",
-      "description": "Você vai se inspirar com a história e os aprendizados de palestrantes excepcionais que vão representar a diversidade e a excelência da comunidade LGBTQ+ na tecnologia.\n",
+      "title": "Mais de 30 atrações no palco de um teatro em São Paulo",
+      "description": "Inspire-se com a história e os aprendizados de palestrantes excepcionais que representaram a diversidade e a excelência da comunidade LGBTQ+ na tecnologia.\n",
       "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10313/9652330f-e3cb-45f3-9f73-a3d2308367b8",
       "tagline": "Palestrantes",
       "cta": [
@@ -77,15 +93,15 @@
       "cta": [
         {
           "style": "Outline",
-          "href": "https://www.even3.com.br/orgulho-tech-conf/#patrocinadores",
+          "href": "https://materiais.danvitoriano.com.br/evento-lgbt",
           "text": "Conecte-se com empresas"
         }
       ]
     },
     {
       "__resolveType": "site/sections/BlogPosts.tsx",
-      "title": "Atrações já confirmadas",
-      "description": "Prepare-se para se inspirar com a história e os aprendizados de um time de palestrantes excepcionais que vão representar a diversidade e a excelência da comunidade LGBTQ+ na área de tecnologia. ",
+      "title": "Atrações",
+      "description": "Inspire-se com a história e os aprendizados de um time de palestrantes excepcionais representando a diversidade e a excelência da comunidade LGBTI+ na área de tecnologia. ",
       "posts": [
         {
           "tags": [
@@ -102,28 +118,28 @@
         },
         {
           "tags": [
-            "designer",
-            "produtos",
-            "gay"
+            "programação",
+            "dev",
+            "lésbica"
           ],
           "title": "Camila Crispim",
           "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10313/fabd9f35-f771-4060-8225-8eb748feb895",
-          "readingTime": "PROGRAMAÇÃO",
-          "date": "Head de Tecnologia",
+          "readingTime": "LIDERANÇA TÉCNICA",
+          "date": "Principal Engineer",
           "author": "Thoughtworks",
-          "excerpt": "Renato Paixão é especialista em Design de Produtos e Estratégia."
+          "excerpt": "Consultora de Engenharia Principal. Especialista em Modernização."
         },
         {
           "tags": [
-            "designer",
-            "produtos",
-            "gay"
+            "dev",
+            "programação",
+            "trans"
           ],
           "title": "Nathally Souza",
           "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10313/81cbf2d2-b91c-4b33-ad7b-481226e1e797",
-          "readingTime": "PRODUCT DESIGN",
+          "readingTime": "PROGRAMAÇÃO",
           "date": "Software Developer",
-          "excerpt": "Renato Paixão é especialista em Design de Produtos e Estratégia.",
+          "excerpt": "Travesti, desenvolvedora backend, jornalista e apaixonada por curtir a vida.",
           "author": "Nubank"
         }
       ]
@@ -165,7 +181,31 @@
       ]
     },
     {
-      "__resolveType": "site/sections/Faq.tsx"
+      "__resolveType": "site/sections/Faq.tsx",
+      "description": "Participe da comunidade Orgulho Tech e entre em contato caso tenha dúvidas ou queira engajar de alguma forma.",
+      "cta": {
+        "text": "Contato",
+        "href": "mailto:contato@orgulhotech.com.br",
+        "outline": true
+      },
+      "questions": [
+        {
+          "title": "Como assistir online a Orgulho Tech Conf 2024?",
+          "answer": "<p>Você pode conferir mais de 9 horas de transmissão da primeira Orgulho Tech Conf no Youtube: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.youtube.com/watch?v=MPRh_AoFmeA\">https://www.youtube.com/watch?v=MPRh_AoFmeA</a></p>"
+        },
+        {
+          "title": "Como as empresas podem patrocinar a conferência?",
+          "answer": "<p>Entre em contato através da nossa landing page de patrocinadores e solicite o nosso mídia kit, além do material promocional de outros eventos: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://materiais.danvitoriano.com.br/evento-lgbt\">https://materiais.danvitoriano.com.br/evento-lgbt</a></p>"
+        },
+        {
+          "title": "Já tem local para a edição 2025 da conferência?",
+          "answer": "<p>A edição de 2025 será realizada novamente em São Paulo, na primeira semana de junho, sábado dia 7, mas ainda não divulgamos o local do evento. Siga nossas redes sociais e assine nossa newsletter para ser informada assim que o local for confirmado.</p>"
+        },
+        {
+          "title": "A comunidade promove encontros presenciais ou online?",
+          "answer": "<p>Sim! Procuramos realizar meetups e workshops, presenciais e online para reunir a galera e trocar experiências. Se você quer fazer alguma palestra, ou a sua empresa tem um espaço onde podemos realizar eventos, entre em contato conosco!</p>"
+        }
+      ]
     },
     {
       "__resolveType": "Footer"

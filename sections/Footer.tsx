@@ -112,7 +112,7 @@ export default function Footer({
           <div>
             <Image
               src={logo.src || ""}
-              width={100}
+              width={150}
               height={28}
               alt={logo.alt}
             />

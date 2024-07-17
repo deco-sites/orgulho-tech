@@ -1,1 +1,54 @@
-{"__resolveType":"site/sections/Footer.tsx","links":[],"bottomLinks":[],"social":[],"subscribe":{}}
+{
+  "__resolveType": "site/sections/Footer.tsx",
+  "links": [
+    {
+      "items": [
+        {
+          "label": "Podcast Orgulho Tech",
+          "href": "https://www.youtube.com/playlist?list=PLndJnupfcnxF0w_rsHFklzSBOTdmcgwAf"
+        },
+        {
+          "label": "Mentoria Pra Todes",
+          "href": "https://materiais.danvitoriano.com.br/mentoriapratodes"
+        },
+        {
+          "label": "Podcast Tech 40+",
+          "href": "https://www.youtube.com/playlist?list=PLndJnupfcnxE4dErxRpXICLXQ2Xz5UduD"
+        },
+        {
+          "label": "Dan Vitoriano",
+          "href": "https://www.danvitoriano.com.br/"
+        }
+      ],
+      "title": "Conheça mais"
+    }
+  ],
+  "bottomLinks": [],
+  "social": [
+    {
+      "network": "Instagram",
+      "href": "https://www.instagram.com/orgulhotech"
+    },
+    {
+      "network": "Linkedin",
+      "href": "https://www.linkedin.com/company/orgulhotech"
+    },
+    {
+      "network": "X - Twitter",
+      "href": "https://www.twitter.com/orgulhotech"
+    },
+    {
+      "network": "Youtube",
+      "href": "https://www.youtube.com/@orgulhotech"
+    }
+  ],
+  "subscribe": {
+    "title": "Receba nossa Newsletter",
+    "description": "Fique por dentro de todos eventos e promoções da comunidade Orgulho Tech.",
+    "instructions": "<p>Prometemos não fazer spam!</p>"
+  },
+  "logo": {
+    "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10313/c1589049-ca9f-44ee-a336-d52606bb7511",
+    "alt": "Orgulho Tech"
+  }
+}
