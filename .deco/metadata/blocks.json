@@ -188,5 +188,9 @@
     "path": "/teste",
     "blockType": "pages",
     "__resolveType": "website/pages/Page.tsx"
+  },
+  "/.deco/blocks/atra%C3%A7%C3%B5es.json": {
+    "blockType": "sections",
+    "__resolveType": "site/sections/BlogPosts.tsx"
   }
 }
