@@ -42,7 +42,6 @@ export default function Logos({
         <p class="text-center text-lg">{title}</p>
         <div class="relative w-full overflow-hidden h-20">
           <div class="absolute top-0 left-0 flex flex-nowrap h-20">
-          kkkk
             {slideContent}
           </div>
         </div>
