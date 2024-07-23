@@ -144,7 +144,7 @@ export default function Footer({
                 />
                 <button
                   type="submit"
-                  class="btn btn-outline font-normal"
+                  class="btn btn-outline font-semibold"
                   aria-label="Subscribe"
                 >
                   Subscribe
