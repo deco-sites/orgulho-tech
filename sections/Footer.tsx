@@ -1,5 +1,8 @@
 import Image from "apps/website/components/Image.tsx";
 import type { ImageWidget } from "apps/admin/widgets.ts";
+import { useSignal } from "@preact/signals";
+import { createRef } from 'preact';
+
 
 export interface Column {
   title: string;
@@ -105,6 +108,12 @@ export default function Footer({
     { network: "Youtube", href: "" },
   ],
 }: Props) {
+  
+  const texto = useSignal("Subscribe");
+  const clicked = () => {
+    texto.value = "oioio"
+  }
+  
   return (
     <div class="lg:container mx-auto md:max-w-6xl px-4 pt-16 text-sm">
       <div class="flex flex-col gap-20">
@@ -134,7 +143,6 @@ export default function Footer({
           </div>
           <div class="lg:w-[40%]">
             <h4 class="font-semibold mb-4">{subscribe?.title}</h4>
-            <form class="flex flex-col gap-4">
               <p class="font-normal">{subscribe.description}</p>
               <div class="flex gap-4">
                 <input
@@ -143,11 +151,11 @@ export default function Footer({
                   class="w-full input input-bordered input-primary"
                 />
                 <button
-                  type="submit"
-                  class="btn btn-outline font-semibold"
+                  class="btn btn-outline font-normal"
                   aria-label="Subscribe"
+                  onClick={clicked}
                 >
-                  Subscribe
+                  Subscribe {texto}
                 </button>
               </div>
               <p
@@ -155,7 +163,6 @@ export default function Footer({
                 dangerouslySetInnerHTML={{ __html: subscribe.instructions }}
               >
               </p>
-            </form>
           </div>
         </div>
         <div class="border-primary border-t flex flex-col gap-4 items-center justify-between lg:flex-row lg:items-center py-8">
