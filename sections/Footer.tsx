@@ -153,7 +153,6 @@ export default function Footer({
                 <button
                   class="btn btn-outline font-normal"
                   aria-label="Subscribe"
-                  onClick={clicked}
                 >
                   Subscribe {texto}
                 </button>
