@@ -140,8 +140,8 @@ export default function Footer({
             <form hx-post="https://maker.ifttt.com/trigger/email_subscribed_payload/with/key/fndYQW_ZDy9LrLIywvX8ybot-Ey6L7BITpYRLTZnM64" hx-trigger="submit" hx-swap="outerHTML">
               <input
                 type="text"
-                name="email"
-                id="email"
+                name="Value1"
+                id="Value1"
                 placeholder="Enter your email"
                 class="w-full input input-bordered input-primary"
               />
