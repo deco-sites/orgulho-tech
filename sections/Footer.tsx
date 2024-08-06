@@ -1,5 +1,7 @@
 import Image from "apps/website/components/Image.tsx";
 import type { ImageWidget } from "apps/admin/widgets.ts";
+import { useSignal } from "@preact/signals";
+import { createRef } from "preact";
 
 export interface Column {
   title: string;
@@ -79,7 +81,7 @@ export default function Footer({
     },
   ],
   subscribe = {
-    title: "Cadastre-se",
+    title: "Subcribe",
     description:
       "Join our newsletter to stay up to date on features and releases.",
     instructions:
@@ -105,6 +107,11 @@ export default function Footer({
     { network: "Youtube", href: "" },
   ],
 }: Props) {
+  const texto = useSignal("Subscribe");
+  const clicked = () => {
+    texto.value = "oioio";
+  };
+
   return (
     <div class="lg:container mx-auto md:max-w-6xl px-4 pt-16 text-sm">
       <div class="flex flex-col gap-20">
@@ -146,7 +153,7 @@ export default function Footer({
                 class="btn btn-outline font-normal"
                 aria-label="Subscribe"
               >
-                {subscribe.title}
+                Subscribe {texto}
               </button>
               </form>
             </div>
