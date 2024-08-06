@@ -137,7 +137,7 @@ export default function Footer({
             <h4 class="font-semibold mb-4">{subscribe?.title}</h4>
             <p class="font-normal">{subscribe.description}</p>
             <div class="flex gap-4">
-            <form hx-post="https://maker.ifttt.com/trigger/email_subscribed_payload/with/key/fndYQW_ZDy9LrLIywvX8ybot-Ey6L7BITpYRLTZnM64" hx-trigger="submit" hx-swap="outerHTML">
+            <form hx-post="https://express-sigma-seven.vercel.app/email" hx-include="#Value1" hx-trigger="submit" hx-swap="outerHTML">
               <input
                 type="text"
                 name="Value1"
