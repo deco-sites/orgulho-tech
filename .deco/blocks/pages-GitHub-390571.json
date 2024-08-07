@@ -1,0 +1,29 @@
+{
+  "name": "GitHub",
+  "path": "/github",
+  "sections": [
+    {
+      "__resolveType": "menu header"
+    },
+    {
+      "__resolveType": "site/sections/Hero.tsx",
+      "title": "<p>Orgulho Open Source</p>",
+      "placement": "left",
+      "cta": [
+        {
+          "href": "https://github.com/deco-sites/orgulho-tech",
+          "text": "Acessar código aberto no GitHub",
+          "outline": false
+        }
+      ],
+      "description": "Todo o código do nosso site fica disponível abertamente no GitHub, e foi criado com a tecnologia low-code da deco.cx e outras ferramentas como HTMX, TypeScript, Deno, Preact, Fresh, Vercel, ExpressJS e JSX. Você pode clonar o projeto ou contribuir enviando uma Pull Request."
+    },
+    {
+      "__resolveType": "Footer"
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}
