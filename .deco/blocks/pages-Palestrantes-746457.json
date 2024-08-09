@@ -6,7 +6,63 @@
       "__resolveType": "menu header"
     },
     {
-      "__resolveType": "atrações"
+      "__resolveType": "site/sections/BlogPosts.tsx",
+      "title": "Atrações",
+      "description": "Inspire-se com a história e os aprendizados de um time de palestrantes excepcionais representando a diversidade e a excelência da comunidade LGBTI+ na área de tecnologia. ",
+      "posts": [
+        {
+          "tags": [
+            "designer",
+            "produtos",
+            "gay"
+          ],
+          "title": "Renato Paixão",
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10313/0e0315fd-618a-4607-9d02-303c47f81ba0",
+          "date": "Senior Product Designer",
+          "author": "Dibbs, PretUX",
+          "excerpt": "Renato Paixão é especialista em Design de Produtos e Estratégia.",
+          "readingTime": "PRODUCT DESIGN"
+        },
+        {
+          "tags": [
+            "programação",
+            "dev",
+            "lésbica"
+          ],
+          "title": "Camila Crispim",
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10313/fabd9f35-f771-4060-8225-8eb748feb895",
+          "readingTime": "LIDERANÇA TÉCNICA",
+          "date": "Principal Engineer",
+          "author": "Thoughtworks",
+          "excerpt": "Consultora de Engenharia Principal. Especialista em Modernização."
+        },
+        {
+          "tags": [
+            "dev",
+            "programação",
+            "trans"
+          ],
+          "title": "Nathally Souza",
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10313/81cbf2d2-b91c-4b33-ad7b-481226e1e797",
+          "readingTime": "PROGRAMAÇÃO",
+          "date": "Software Developer",
+          "excerpt": "Travesti, desenvolvedora backend, jornalista e apaixonada por curtir a vida.",
+          "author": "Nubank"
+        },
+        {
+          "tags": [
+            "criatividade",
+            "inteligência artificial",
+            "arte"
+          ],
+          "title": "Guilherme Silveira",
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10313/4c2cfcf2-8f5f-4cbb-9a5b-884fc85722e9",
+          "readingTime": "INTELIGÊNCIA ARTIFICIAL",
+          "excerpt": "Pioneiro em IA e educação, Gui também é mágico e autor de 7 livros.",
+          "date": "CIO, Instrutor e cofounder",
+          "author": "Alura"
+        }
+      ]
     },
     {
       "__resolveType": "Footer"
