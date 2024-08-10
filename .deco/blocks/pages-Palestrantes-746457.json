@@ -74,6 +74,19 @@
           "excerpt": "Coordenadora da pós-graduação em Arquitetura e Desenvolvimento Java.",
           "date": "Desenvolvedora Back-End",
           "author": "FIAP"
+        },
+        {
+          "tags": [
+            "back-end",
+            "java",
+            "programação"
+          ],
+          "title": "Francesco Crisci",
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10313/cd90e687-3775-4540-a6aa-f690aa5f807d",
+          "readingTime": "DIVERSIDADE TECH",
+          "excerpt": "Designer de produto",
+          "date": "Designer de produto",
+          "author": "Cielo"
         }
       ]
     },
