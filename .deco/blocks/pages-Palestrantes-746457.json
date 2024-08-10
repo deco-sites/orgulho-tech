@@ -61,6 +61,19 @@
           "excerpt": "Pioneiro em IA e educação, Gui também é mágico e autor de 7 livros.",
           "date": "CIO, Instrutor e cofounder",
           "author": "Alura"
+        },
+        {
+          "tags": [
+            "back-end",
+            "java",
+            "programação"
+          ],
+          "title": "Damiana Nascimento",
+          "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10313/ac958c50-c988-4a61-a8eb-add2e4cb8b26",
+          "readingTime": "CARREIRA",
+          "excerpt": "Coordenadora da pós-graduação em Arquitetura e Desenvolvimento Java.",
+          "date": "Desenvolvedora Back-End",
+          "author": "FIAP"
         }
       ]
     },
