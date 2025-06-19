@@ -1,0 +1,30 @@
+{
+  "name": "Meetup",
+  "path": "/meetup",
+  "sections": [
+    {
+      "__resolveType": "menu header"
+    },
+    {
+      "__resolveType": "site/sections/Hero.tsx",
+      "title": "<h1><strong>Meetup Orgulho Tech</strong></h1>",
+      "placement": "left",
+      "cta": [
+        {
+          "href": "https://www.meetup.com/pt-BR/orgulhotech",
+          "text": "Junte-se no Meetup",
+          "outline": false
+        }
+      ],
+      "description": "Participe do nosso grupo de Meetup para eventos recorrentes.",
+      "image": "https://assets.decocache.com/orgulho-tech/95a15f39-29e8-49e2-a699-c39ac99918ae/clean_528238105.jpeg"
+    },
+    {
+      "__resolveType": "Footer"
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

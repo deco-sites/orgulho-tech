@@ -4,12 +4,16 @@
     {
       "items": [
         {
+          "label": "Meetup",
+          "href": "https://www.meetup.com/pt-BR/orgulhotech"
+        },
+        {
           "label": "Podcast Orgulho Tech",
           "href": "https://www.youtube.com/playlist?list=PLndJnupfcnxF0w_rsHFklzSBOTdmcgwAf"
         },
         {
-          "label": "Mentoria Pra Todes",
-          "href": "https://materiais.danvitoriano.com.br/mentoriapratodes"
+          "label": "Grupo do WhatsApp",
+          "href": "https://link.orgulhotech.com.br/whatsapp"
         },
         {
           "label": "Podcast Tech 40+",

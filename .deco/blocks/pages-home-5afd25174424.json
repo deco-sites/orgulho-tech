@@ -1,1 +1,13 @@
-{"name":"Home","path":"/","sections":[{"__resolveType":"site/sections/Hero.tsx"},{"__resolveType":"site/sections/Footer.tsx"}],"__resolveType":"website/pages/Page.tsx"}
+{
+  "name": "Home",
+  "path": "/",
+  "sections": [
+    {
+      "__resolveType": "site/sections/Hero.tsx"
+    },
+    {
+      "__resolveType": "site/sections/Footer.tsx"
+    }
+  ],
+  "__resolveType": "website/pages/Page.tsx"
+}

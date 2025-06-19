@@ -7,10 +7,10 @@
     },
     {
       "__resolveType": "site/sections/Hero.tsx",
-      "title": "<p>A 1ª conferência para profissionais LGBTQ+ na tecnologia.</p>",
+      "title": "<p>Orgulho Tech: diversidade LGBT+ e impacto social na tecnologia.</p>",
       "placement": "left",
       "cta": [],
-      "description": "A Orgulho Tech Conf é a primeira conferência no Brasil dedicada a profissionais LGBTQ+ na área de tecnologia. Foi realizada em São Paulo, no sábado dia 1º de junho de 2024, no Teatro da FECAP, durante a semana da Parada LGBT de São Paulo, visando celebrar a diversidade e a inclusão no setor tecnológico com mais de 30 atrações."
+      "description": "A Orgulho Tech é uma comunidade de profissionais LGBT+ na tecnologia. Em 2024, realizamos nossa primeira conferência. Em 2025, promovemos um meetup sobre envelhecimento LGBT+ no setor, premiamos 8 comunidades com o troféu “Você é um Orgulho Tech” e temos 10 episódios do nosso videocast no YouTube."
     },
     {
       "__resolveType": "Footer"

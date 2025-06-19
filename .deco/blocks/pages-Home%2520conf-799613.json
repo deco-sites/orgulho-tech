@@ -1,0 +1,142 @@
+{
+  "__resolveType": "website/pages/Page.tsx",
+  "name": "Home conf",
+  "path": "/conf",
+  "sections": [
+    {
+      "__resolveType": "menu header"
+    },
+    {
+      "__resolveType": "site/sections/Hero.tsx",
+      "title": "<p><strong>A primeira conferência de profissionais LGBT+ na tecnologia.</strong></p>",
+      "cta": [
+        {
+          "href": "https://link.orgulhotech.com.br/live",
+          "text": "Assista como foi no YouTube",
+          "outline": false
+        }
+      ],
+      "description": "Realizada em São Paulo no sábado, 1º de junho de 2024, durante a Semana da Parada LGBT, o evento celebrou a diversidade no setor através de palestras, entrevistas e oportunidades de networking.",
+      "placement": "left"
+    },
+    {
+      "__resolveType": "site/sections/Logos.tsx",
+      "logos": [
+        {
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10313/00fe04dc-2d6b-4b41-9049-9d4c18e1288e",
+          "altText": "FIAP"
+        },
+        {
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10313/d3e214a1-e351-4f42-8e00-9b7bd1228c41",
+          "altText": "Alura"
+        },
+        {
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10313/dda3ef53-b05a-4e9c-bf36-e6f0ce639d77",
+          "altText": "Cielo"
+        },
+        {
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10313/671e4a9c-4555-4368-aa40-f8b71c359865",
+          "altText": "Reply"
+        },
+        {
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10313/494ea25b-ac55-47ed-a3b2-162fe7aaaf91",
+          "altText": "Michael Page"
+        },
+        {
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10313/ebf0f4ac-5727-4d88-b7e9-883ed8f33006",
+          "altText": "Trampos"
+        },
+        {
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10313/f9947f06-8f9d-465d-a536-55ecc28540db",
+          "altText": "fórum lgbti"
+        },
+        {
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10313/044273a1-4086-4d29-9bc6-a8b5a1901bb0",
+          "altText": "ELU"
+        },
+        {
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10313/ab3d123e-1f93-476a-abf8-65c263dd7dcd",
+          "altText": "Sensedia"
+        },
+        {
+          "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10313/b421c53e-4d2a-4626-ab2c-da5e8fdd9336",
+          "altText": "Criativos"
+        }
+      ],
+      "title": "Empresas Parceiras:"
+    },
+    {
+      "__resolveType": "site/sections/ImageWithParagraph.tsx",
+      "title": "Mais de 30 atrações no palco de um teatro em São Paulo",
+      "description": "Inspire-se com a história e os aprendizados de palestrantes excepcionais que representaram a diversidade e a excelência da comunidade LGBTQ+ na tecnologia.\n",
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10313/9652330f-e3cb-45f3-9f73-a3d2308367b8",
+      "tagline": "Palestrantes",
+      "cta": [
+        {
+          "style": "Outline",
+          "href": "https://www.even3.com.br/orgulho-tech-conf/#palestrantes",
+          "text": "Atrações"
+        },
+        {
+          "style": "Ghost",
+          "href": "https://www.even3.com.br/orgulho-tech-conf/#atividades",
+          "text": "Programação"
+        }
+      ],
+      "placement": "right"
+    },
+    {
+      "__resolveType": "site/sections/ImageWithParagraph.tsx",
+      "title": "Representatividade e diversidade reunidas para falar de tecnologia",
+      "description": "Mais do que um evento, a Orgulho Tech Conf é um espaço seguro e acolhedor para a comunidade LGBTQ+ da tecnologia. Um estudo da University of Central Florida revela que um dos principais fatores que motivam a participação em eventos LGBTQIA+ é o sentimento de pertencimento. ",
+      "tagline": "Networking",
+      "image": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10313/2b5b6920-2873-423f-87e9-81448e1efb7b",
+      "cta": [
+        {
+          "style": "Outline",
+          "href": "https://materiais.danvitoriano.com.br/evento-lgbt",
+          "text": "Conecte-se com empresas"
+        }
+      ]
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "atracoes-full"
+      }
+    },
+    {
+      "__resolveType": "testimonials-geral"
+    },
+    {
+      "__resolveType": "site/sections/Faq.tsx",
+      "description": "Participe da comunidade Orgulho Tech e entre em contato caso tenha dúvidas ou queira engajar de alguma forma.",
+      "cta": {
+        "text": "Contato",
+        "href": "mailto:contato@orgulhotech.com.br",
+        "outline": true
+      },
+      "questions": [
+        {
+          "title": "Como assistir online a Orgulho Tech Conf?",
+          "answer": "<p>Você pode conferir mais de 9 horas de transmissão da primeira Orgulho Tech Conf no Youtube: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.youtube.com/watch?v=MPRh_AoFmeA\">https://www.youtube.com/watch?v=MPRh_AoFmeA</a></p>"
+        },
+        {
+          "title": "Como as empresas podem apoiar a comunidade?",
+          "answer": "<p>Entre em contato através do email: <u>contato@orgulhotech.com.br</u></p>"
+        },
+        {
+          "title": "Onde fico sabendo dos encontros?",
+          "answer": "<p>Cadastre-se no Meetup e junte-se ao nosso grupo: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.meetup.com/pt-BR/orgulhotech\">https://www.meetup.com/pt-BR/orgulhotech</a></p>"
+        },
+        {
+          "title": "Como posso participar do grupo do WhatsApp",
+          "answer": "<p>Você pode preencher seu cadastro e aguardar o link de acesso: <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://link.orgulhotech.com.br/whatsapp\">https://link.orgulhotech.com.br/whatsapp</a></p>"
+        }
+      ]
+    },
+    {
+      "__resolveType": "Footer"
+    }
+  ]
+}

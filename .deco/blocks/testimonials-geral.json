@@ -1,0 +1,36 @@
+{
+  "__resolveType": "site/sections/Testimonials.tsx",
+  "title": "Depoimentos da nossa comunidade",
+  "dots": true,
+  "arrows": true,
+  "slides": [
+    {
+      "content": {
+        "description": "comprei meu ingresso pra @orgulhotech. quem mais vai? ANSIOSA",
+        "avatar": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10313/563ce337-6f5b-48fd-8a65-ecbda7a2ec81",
+        "name": "@okarinadantas"
+      }
+    },
+    {
+      "content": {
+        "description": "Todas as #pessoas de #tecnologia estão convidadas! 🏳️‍🌈🏳️‍⚧️ ",
+        "avatar": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10313/56373669-4a7c-4f74-9d26-62e6054b8e2f",
+        "name": "@jonasnonato"
+      }
+    },
+    {
+      "content": {
+        "description": "Cheguei aqui pelo TikTok. Estou maravilhado. Adoro gente inteligente!",
+        "avatar": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10313/e638aa60-ebe1-4276-890d-cf009d2d0cc9",
+        "name": "@robsoncavalcanti5161"
+      }
+    },
+    {
+      "content": {
+        "description": "Nossa gente,ver esse podcast foi meio que foi o ponta pé final que eu precisava pra eu decidir se entrava ou não no mundo da programação",
+        "avatar": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10313/cd5b3c4a-4b68-4f4c-9c15-13438dc7e5d3",
+        "name": "@BrummelGamer"
+      }
+    }
+  ]
+}

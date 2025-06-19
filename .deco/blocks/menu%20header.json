@@ -3,16 +3,20 @@
   "navigation": {
     "links": [
       {
-        "label": "Atrações",
-        "url": "/palestrantes"
+        "label": "Sobre",
+        "url": "/sobre"
+      },
+      {
+        "label": "Meetup",
+        "url": "/meetup"
       },
       {
         "label": "Podcast",
         "url": "/podcast"
       },
       {
-        "label": "Sobre",
-        "url": "/sobre"
+        "label": "Conf",
+        "url": "/conf"
       },
       {
         "label": "GitHub",

@@ -1,0 +1,46 @@
+{
+  "__resolveType": "site/sections/Logos.tsx",
+  "title": "Oferecimento:",
+  "logos": [
+    {
+      "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10313/00fe04dc-2d6b-4b41-9049-9d4c18e1288e",
+      "altText": "FIAP"
+    },
+    {
+      "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10313/d3e214a1-e351-4f42-8e00-9b7bd1228c41",
+      "altText": "Alura"
+    },
+    {
+      "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10313/dda3ef53-b05a-4e9c-bf36-e6f0ce639d77",
+      "altText": "Cielo"
+    },
+    {
+      "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10313/671e4a9c-4555-4368-aa40-f8b71c359865",
+      "altText": "Reply"
+    },
+    {
+      "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10313/494ea25b-ac55-47ed-a3b2-162fe7aaaf91",
+      "altText": "Michael Page"
+    },
+    {
+      "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10313/ebf0f4ac-5727-4d88-b7e9-883ed8f33006",
+      "altText": "Trampos"
+    },
+    {
+      "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10313/f9947f06-8f9d-465d-a536-55ecc28540db",
+      "altText": "fórum lgbti"
+    },
+    {
+      "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10313/044273a1-4086-4d29-9bc6-a8b5a1901bb0",
+      "altText": "ELU"
+    },
+    {
+      "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10313/ab3d123e-1f93-476a-abf8-65c263dd7dcd",
+      "altText": "Sensedia"
+    },
+    {
+      "src": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/10313/b421c53e-4d2a-4626-ab2c-da5e8fdd9336",
+      "altText": "Criativos"
+    }
+  ]
+}
